@@ -2,8 +2,8 @@
 
 # Skills 
 * Web Apps using Django and React ![alt text](https://img.shields.io/badge/PYTHON-REACT-blue)
-* Machine learning algorithms with scikit-learn, numpy, pytorch 
-* CLI Apps/System in C/C++
-* Windows Applications with VB.NET
-* Android Apps with Java
-* Participated CTF competitions
+* Machine learning algorithms with scikit-learn, numpy, pytorch ![alt text](https://img.shields.io/badge/PYTHON)
+* CLI Apps/System in C/C++ ![alt text](https://img.shields.io/badge/C-C++-blue)
+* Windows Applications with VB.NET ![alt text](https://img.shields.io/badge/VB .NET)
+* Android Apps with Java ![alt text](https://img.shields.io/badge/JAVA)
+* Participated CTF competitions ![alt text](https://img.shields.io/badge/CTF)
