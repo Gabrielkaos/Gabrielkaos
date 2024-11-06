@@ -5,7 +5,7 @@ I'm a 2nd year college student majoring in Computer Science in Eastern Samar Sta
 I love Programming!
 
 # 💻 Projects
-* Attendance System with Django Framework and Esp
+* Attendance System with Django Framework/MERN Stack and Esp
 * Chess Engine with C
 * Chess Games Analyzer PGN Compliant
 * Caesar Cipher Table Generator Android App
