@@ -8,12 +8,13 @@ I love Programming!
 * Attendance System with Django Framework/MERN Stack and Esp
 * Chess Engine with C
 * Gomoku Engine in Python
+* Implemented Go Game Engine in python
 * Chess Games Analyzer PGN Compliant
 * Caesar Cipher Table Generator Android App
 * Voting System in VB .NET
+* SF10 File System in VB .NET
 * Own Cipher made in Python with Googol number of settings
 * Student DBMS in Python tkinter
-* Implemented Go Game Engine in python
 * Catalina, Small LLM with Transformer Network Architecture 
 
 # 🤖 Skills 
