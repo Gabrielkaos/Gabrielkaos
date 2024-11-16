@@ -7,6 +7,7 @@ I love Programming!
 # 💻 Projects
 * Attendance System with Django Framework/MERN Stack and Esp
 * Chess Engine with C
+* Connect Four Engine in Java
 * Gomoku Engine in Python
 * Implemented Go Game Engine in python
 * Chess Games Analyzer PGN Compliant
