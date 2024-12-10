@@ -16,7 +16,8 @@ I love Programming!
 * SF10 File System in VB .NET
 * Own Cipher made in Python with Googol number of settings
 * Student DBMS in Python tkinter
-* Catalina, Small LLM with Transformer Network Architecture 
+* Catalina, Small LLM with Transformer Network Architecture
+* [See my repos for more projects](https://github.com/Gabrielkaos?tab=repositories)
 
 # 🤖 Skills 
 * Web Apps using Django and React ![alt text](https://img.shields.io/badge/PYTHON-REACT-blue)
