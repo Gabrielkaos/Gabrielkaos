@@ -1,8 +1,7 @@
 <h1 align="center">Hi there I'm Gabriel Montes👋</h1>
 
 # 👋 About Me
-I'm a 2nd year college student majoring in Computer Science in Eastern Samar State University.
-I love Programming!
+Student majoring in Computer Science in Eastern Samar State University.
 
 # 💻 Projects
 * Attendance System with Django Framework/MERN Stack and Esp
