@@ -8,49 +8,47 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Computer Science student at **Eastern Samar State University** with a passion for:  
-- 🤖 **Machine Learning** and **Data Science**  
-- 🌐 **Backend Web Development** using Django and MERN stack  
-- 🔧 **Electronics** and embedded systems using ESP32, Arduino, and custom protocols  
-- 🧠 Building tools, systems, and AI that learn or automate useful tasks
+I'm a Computer Science student at **Eastern Samar State University** with a passion for:  
+- **Machine Learning** and **Data Science**  
+- **Backend Web Development** using Django and MERN stack  
+- **Electronics** and embedded systems using ESP32, Arduino, and custom protocols  
+- Building tools, systems, and AI that learn or automate useful tasks
 
 ---
 
 ## 💼 Projects I've Built
 
-- 🕰️ **Attendance System** — ESP32 + Django/MERN for tracking presence
-- ♟️ **Chess Engine** — Written in C, handles legal move generation and evaluation
-- 🧠 **Catalina** — A small Transformer-based LLM made from scratch
-- 🧩 **gbL** — A custom programming language interpreter in Python
-- ⚫ **Gomoku AI Engine** — Command-line Gomoku player
-- ⚔️ **Go Game Engine** — Implemented full game logic in Python
-- 📊 **PGN Analyzer** — Parses and evaluates chess games from PGN files
-- 🔐 **Caesar Cipher App** — Android tool to visualize cipher tables
-- 🗳️ **Voting System** — Desktop voting platform in VB.NET
-- 🗂️ **SF10 File System** — School document generator in VB.NET
-- 🛡️ **Custom Cipher** — Python cipher with googol-scale key settings
-- 🎓 **Student DBMS** — Tkinter-based student management app
+- **Attendance System** — ESP32 + Django/MERN for tracking presence
+- **Chess Engine** — Written in C, handles legal move generation and evaluation
+- **gbL** — A custom programming language interpreter in Python
+- **Gomoku AI Engine** — Command-line Gomoku player
+- **Go Game Engine** — Implemented full game logic in Python
+- **PGN Analyzer** — Parses and evaluates chess games from PGN files
+- **8 Bit Computer - Programmable 8 bit computer in logisim
 
-➡️ [View more on my GitHub](https://github.com/Gabrielkaos?tab=repositories)
+
+
+
+[View more on my GitHub](https://github.com/Gabrielkaos?tab=repositories)
 
 ---
 
 ## 🛠️ Skills
 
-- 🌐 **Web Development**: Django, MERN (MongoDB, Express, React, Node.js)  
-- 🤖 **Machine Learning**: scikit-learn, NumPy, PyTorch  
-- 💻 **System Programming**: C, C++ (CLI tools, interpreters, game engines)  
-- 📱 **Mobile & Desktop Apps**: Android (Java), VB.NET  
-- 🖥️ **Data Visualization & Automation**: Python, Pandas, Matplotlib  
-- ⚙️ **Embedded Systems**: Arduino, ESP32, sensors, serial/UART communication  
-- 🧠 **CTF / Reverse Engineering**: Basic pwn, crypto, and stego challenges 
+- **Web Development**: Django, MERN (MongoDB, Express, React, Node.js)  
+- **Machine Learning**: scikit-learn, NumPy, PyTorch  
+- **System Programming**: C, C++ (CLI tools, interpreters, game engines)  
+- **Mobile & Desktop Apps**: Android (Java), VB.NET  
+- **Data Visualization & Automation**: Python, Pandas, Matplotlib  
+- **Embedded Systems**: Arduino, ESP32, sensors, serial/UART communication  
+- **CTF / Reverse Engineering**: Basic pwn, crypto, and stego challenges 
 
 ---
 
 ## 📫 Let's Connect
 
-- 📘 [Facebook](https://www.facebook.com/profile.php?id=100070693925720)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-montes-b54b00332/)
+-[Facebook](https://www.facebook.com/profile.php?id=100070693925720)  
+-[LinkedIn](https://www.linkedin.com/in/gabriel-montes-b54b00332/)
 
 ---
 
