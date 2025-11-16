@@ -18,10 +18,9 @@ I'm a Computer Science student at **Eastern Samar State University** with a pass
 
 ## 💼 Projects I've Built
 
+- **Smart Notes React App** — Web App using MERN Stack with Authorization, Security, Validation, Error Handling, Logging
 - **Attendance System** — ESP32 + Django/MERN for tracking presence
 - **Chess Engine** — Written in C, handles legal move generation and evaluation
-- **gbL** — A custom programming language interpreter in Python
-- **Gomoku AI Engine** — Command-line Gomoku player
 - **Go Game Engine** — Implemented full game logic in Python
 - **PGN Analyzer** — Parses and evaluates chess games from PGN files
 - **8 Bit Computer** - Programmable 8 bit computer in logisim
