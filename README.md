@@ -18,7 +18,7 @@ I'm a Computer Science student at **Eastern Samar State University** with a pass
 
 ## 💼 Projects I've Built
 
-- **Smart Notes React App** — Web App using MERN Stack with Authorization, Security, Validation, Error Handling, Logging
+- **Smart Notes React App** — Notes App + AI using MERN Stack with Authorization, Security, Validation, Error Handling, Logging
 - **Personal DataSheet(PDS) System** — Django App for quickly managing Personal Datasheets
 - **Attendance System** — ESP32 + Django/MERN for tracking presence
 - **Chess Engine** — Written in C, handles legal move generation and evaluation
