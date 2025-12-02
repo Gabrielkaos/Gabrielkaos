@@ -47,7 +47,7 @@ I'm a Computer Science student at **Eastern Samar State University** with a pass
 
 ## 📫 Let's Connect
 
--[Facebook](https://www.facebook.com/profile.php?id=100070693925720)  
+-[Facebook](https://www.facebook.com/gab.montes.704763)  
 -[LinkedIn](https://www.linkedin.com/in/gabriel-montes-b54b00332/)
 
 ---
