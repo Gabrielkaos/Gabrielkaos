@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at **Eastern Samar State University** with a passion for:  
+I'm a Computer Science student at **Eastern Samar State University** with a passion for:
+- **Backend Web Development** using Django and MERN stack 
 - **Machine Learning** and **Data Science**  
-- **Backend Web Development** using Django and MERN stack  
 - **Electronics** and embedded systems using ESP32, Arduino, and custom protocols  
 - Building tools, systems, and AI that learn or automate useful tasks
 
@@ -32,12 +32,12 @@ I'm a Computer Science student at **Eastern Samar State University** with a pass
 
 ## 🛠️ Skills
 
-- **Web Development**: Django, MERN (MongoDB, Express, React, Node.js)  
+- **Web Development**: Django, MERN
 - **Machine Learning**: scikit-learn, NumPy, PyTorch  
 - **System Programming**: C, C++ (CLI tools, interpreters, game engines)  
 - **Mobile & Desktop Apps**: Android (Java), VB.NET  
 - **Data Visualization & Automation**: Python, Pandas, Matplotlib  
-- **Embedded Systems**: Arduino, ESP32, sensors, serial/UART communication  
+- **Embedded Systems**: Arduino, ESP32, sensors
 - **CTF / Reverse Engineering**: Basic pwn, crypto, and stego challenges 
 
 ---
