@@ -18,10 +18,10 @@ I'm a Computer Science student at **Eastern Samar State University** with a pass
 
 ## 💼 Projects I've Built
 
-- **Inventory Management System** - MERN Stack App with rich features like Auth, Security, Validation
 - **Personal DataSheet(PDS) System** — Django App for quickly managing Personal Datasheets
 - **Smart Notes React App** — Notes + AI App using MERN Stack with Authorization, Security, Validation, Error Handling, Logging
 - **Attendance System** — ESP32 + Django/MERN for tracking presence
+- **CatalinaTransformers** — Coding Transformers, learning their architectures.
 - **Chess Engine** — Written in C, handles legal move generation and evaluation
 - **Go Game Engine** — Implemented full game logic in Python
 - **PGN Analyzer** — Parses and evaluates chess games from PGN files
