@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a Computer Science student at **Eastern Samar State University** with a passion for:
 - **Backend Web Development** using Django and MERN stack 
