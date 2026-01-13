@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gabriel Montes 👋</h1>
+<h1 align="center">Hi there, I'm Gabriel Montes </h1>
 
 <p align="center">
   <i>CS Student • Backend Dev • ML & Data Science Enthusiast • Embedded Systems Hobbyist</i>
@@ -16,7 +16,7 @@ I'm a Computer Science student at **Eastern Samar State University** with a pass
 
 ---
 
-## 💼 Projects I've Built
+##  Projects I've Built
 
 - **Personal DataSheet(PDS) System** — Django App for quickly managing Personal Datasheets
 - **Smart Notes React App** — Notes + AI App using MERN Stack with Authorization, Security, Validation, Error Handling, Logging
@@ -30,7 +30,7 @@ I'm a Computer Science student at **Eastern Samar State University** with a pass
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 - **Web Development**: Django, MERN
 - **Machine Learning**: scikit-learn, NumPy, PyTorch  
@@ -42,7 +42,7 @@ I'm a Computer Science student at **Eastern Samar State University** with a pass
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 -[Facebook](https://www.facebook.com/gab.montes.704763)  
 -[LinkedIn](https://www.linkedin.com/in/gabriel-montes-b54b00332/)
