@@ -52,13 +52,7 @@ I'm a Computer Science student at **Eastern Samar State University** with a pass
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/DJANGO-BACKEND-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESP32-ARDUINO-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ML-DATA--SCIENCE-red?style=for-the-badge" />
 </p>
